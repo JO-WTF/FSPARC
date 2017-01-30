@@ -1,0 +1,6 @@
+bonmin.algorithm B-OA
+bonmin.iteration_limit 55555555
+bonmin.number_cpx_threads 8
+max_iter 50000000
+print_level 0
+bonmin.milp_solver Cplex
